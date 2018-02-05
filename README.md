@@ -1,8 +1,6 @@
 未踏IoT研究会
 =====
 
-未踏IoT研究会は、未踏クリエイターによるIoTやスマートデバイス等の新たな分野の開拓を目指し、実践を主体とした活動を行っています。
-
 ## Requirements
 
 - [Ruby](https://www.ruby-lang.org/)
