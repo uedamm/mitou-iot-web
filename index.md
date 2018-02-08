@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](images/DSC_3684 =640x)
+<center><img src="images/DSC_3684.jpg" width="640" /></center>
 
 # 未踏IoT研究会
 

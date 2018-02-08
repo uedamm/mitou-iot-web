@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](images/DSC_3474.jpg =400x)
+<center><img src="images/DSC_3474.jpg" width="400" /></center>
 
 ## IoT講習会
 
