@@ -26,6 +26,13 @@ layout: default
 
 <img src="images/DSC_3478.jpg" width="320" /><img src="images/DSC_3490.jpg" width="320" />
 
+## 次回のおしらせ
+
+次回は2018年6月15日～6月17日の日程で実施します。
+
+[こちらのページから参加申し込みを受け付けています](http://eventregist.com/e/mitouiotcamp4)。
+
+
 ## 現在までの記録
 
 - 第1回合宿 2016年06月
