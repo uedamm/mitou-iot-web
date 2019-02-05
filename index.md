@@ -18,11 +18,6 @@ layout: default
 - IoT講習会
 
 
-# おしらせ
-
-- [IoT開発合宿](camp) 第4回を 2018年6月15日～6月17日 に実施します。[参加申し込みを受付中です。](http://eventregist.com/e/mitouiotcamp4)
-
-
 # IoT研究会の活動・とりくみ
 
 ## IoT開発合宿・勉強会
